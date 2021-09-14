@@ -1,1 +1,1 @@
-select * from table;
+select jerry, john, jonna from table;
