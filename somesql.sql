@@ -1,1 +1,1 @@
-select * from table;
+select red, orange, yellow from table;
