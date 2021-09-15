@@ -1,1 +1,1 @@
-select jerry, john, jonna, red, orange, yellow from table;
+select jerry, john, chris, red, orange, blue from table;
